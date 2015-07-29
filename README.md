@@ -1,9 +1,4 @@
----
-language: css
-tags: css, box style, background
-type: code along
-resources: 0
----
+
 
 ## Code Along Exercise 5 ~ 32min
 
