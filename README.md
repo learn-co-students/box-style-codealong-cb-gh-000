@@ -14,3 +14,5 @@ In this code along exercise we will apply some CSS box styles such as background
 The gradient code that is copied and pasted in the exercise is [available here](https://gist.github.com/jongrover/9537551).
 
 <iframe width="100%" height="720" src="//www.youtube.com/embed/Y4El1I-hagQ?rel=0&controls=1&showinfo=1" frameborder="0" allowfullscreen></iframe>
+
+<a href='https://learn.co/lessons/fe-code-along-ex-5' data-visibility='hidden'>View this lesson on Learn.co</a>
