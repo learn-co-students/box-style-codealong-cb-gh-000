@@ -4,3 +4,5 @@
 
 
 Fork and clone this codealong to follow with the video
+
+<a href='https://learn.co/lessons/box-style-codealong' data-visibility='hidden'>View this lesson on Learn.co</a>
