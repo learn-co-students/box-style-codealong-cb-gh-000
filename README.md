@@ -15,4 +15,4 @@ The gradient code that is copied and pasted in the exercise is [available here](
 
 <iframe width="100%" height="720" src="//www.youtube.com/embed/Y4El1I-hagQ?rel=0&controls=1&showinfo=1" frameborder="0" allowfullscreen></iframe>
 
-<a href='https://learn.co/lessons/fe-code-along-ex-5' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-ex-5' title='Overview'>Overview</a> on Learn.co and start learning to code for free.</p>
