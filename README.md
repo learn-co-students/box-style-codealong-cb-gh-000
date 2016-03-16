@@ -11,9 +11,7 @@ In this code along exercise we will apply some CSS box styles such as background
 3. cd into the folder for this lab.
 4. Code along with the included video below.
 
-## Code Along Exercise 5 ~ 32min
-
-The gradient code that is copied and pasted in the exercise is located atthe bottom of this lesson.
+The gradient code that is copied and pasted in the exercise is located at the bottom of this lesson.
 
 <iframe width="100%" height="720" src="//www.youtube.com/embed/Y4El1I-hagQ?rel=0&controls=1&showinfo=1" frameborder="0" allowfullscreen></iframe>
 
