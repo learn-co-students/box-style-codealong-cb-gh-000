@@ -15,8 +15,6 @@ The gradient code that is copied and pasted in the exercise is located at the bo
 
 <iframe width="100%" height="720" src="//www.youtube.com/embed/Y4El1I-hagQ?rel=0&controls=1&showinfo=1" frameborder="0" allowfullscreen></iframe>
 
-After you finish, make sure you <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">install Firefox</a> if you haven't already as it is required for the screenshot tests to run. Then, type `learn` command from Terminal to run local tests.
-
 ### Gradient Code Snippets
 
 ```css
@@ -56,5 +54,4 @@ background: -ms-linear-gradient(top,  rgba(0,0,0,1) 0%,rgba(71,71,71,1) 28%,rgba
 background: linear-gradient(to bottom,  rgba(0,0,0,1) 0%,rgba(71,71,71,1) 28%,rgba(81,81,81,1) 35%,rgba(71,71,71,1) 72%,rgba(43,43,43,1) 87%,rgba(28,28,28,1) 91%,rgba(0,0,0,1) 100%); /* W3C */
 ```
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/box-style-codealong'>Box Style Codealong</a> on Learn.co and start learning to code for free.</p>
-
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-ex-5' title='Overview'>Overview</a> on Learn.co and start learning to code for free.</p>
