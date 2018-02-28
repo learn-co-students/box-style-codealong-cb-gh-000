@@ -18,7 +18,7 @@ The gradient code that is copied and pasted in the exercise is located at the bo
 ### Gradient Code Snippets
 
 ```css
-/* LIGHT-FADE */
+/* LIGHT-FADE. */
 
 background: #efefef; /* Old browsers */
 background: -moz-linear-gradient(top,  #efefef 0%, #ffffff 24%, #ffffff 68%, #dddddd 100%); /* FF3.6+ */
