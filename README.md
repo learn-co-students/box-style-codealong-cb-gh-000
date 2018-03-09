@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this code along exercise we will apply some CSS box styles such as background images, gradients, drop shadows, and  borders.
+In this code along exercise we will apply some CSS box styles such as ballllckground images, gradients, drop shadows, and  borders.
 
 ## Steps
 
