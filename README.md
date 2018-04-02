@@ -4,12 +4,18 @@
 
 In this code along exercise we will apply some CSS box styles such as background images, gradients, drop shadows, and  borders.
 
-## Steps
+## Tasks for LearnIDE Environment Users
+
+1. Click the "OPEN IDE" button
+
+## Tasks for Local Environment Users
 
 1. Fork this repository.
-2. Clone your fork.
-3. cd into the folder for this lab.
-4. Code along with the included video below.
+2. Clone your fork locally.
+3. `cd` into the local repo you just cloned.
+
+## Process 
+1. Code along with the included video below.
 
 The gradient code that is copied and pasted in the exercise is located at the bottom of this lesson.
 
