@@ -16,6 +16,8 @@ cd exceptional-realty
 We'll work on a new branch in this code along, so go ahead and create a branch
 called `navbar-and-background-styles`.
 
+**Note:** If you are using the in-browser IDE, you won't be able to open images directly from the directory tree.  However, you can still reference the images in your HTML and will be able to see them if you run `httpserver` in your IDE terminal to temporarily host your `index.html`.
+
 The gradient code that is copied and pasted in the exercise is located at the
 bottom of this lesson.
 
