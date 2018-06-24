@@ -1,6 +1,6 @@
 # CSS Box Style Code Along
 
-## Overview
+## Overvdiew
 
 In this code along exercise we will apply some CSS box styles such as
 background images, gradients, drop shadows, and borders. All the files you need
