@@ -7,7 +7,7 @@ h3 {
   margin: 0 0 10px;
 }
 
-p { 
+p {
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
   line-height: 1.5em;
 }
@@ -32,7 +32,10 @@ figcaption {
 
 /*////////// BACKGROUNDS //////////*/
 
+.white-wood {
 
+  background: yellow;
+}
 
 /*/////// MEDIA ////////*/
 
@@ -161,5 +164,3 @@ section {
 }
 
 /*////////// FOOTER //////////*/
-
-
