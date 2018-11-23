@@ -20,7 +20,7 @@ called `navbar-and-background-styles`.
 
 The gradient code that is copied and pasted in the exercise is located at the
 bottom of this lesson.
-
+pass
 <iframe width="640" height="480" src="//www.youtube.com/embed/Y4El1I-hagQ?rel=0&controls=1&showinfo=1" frameborder="0" allowfullscreen></iframe>
 
 Don't forget to commit and push up your work!
