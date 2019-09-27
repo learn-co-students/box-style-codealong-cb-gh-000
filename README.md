@@ -28,7 +28,7 @@ Don't forget to commit and push up your work!
 ### Gradient Code Snippets
 
 ```css
-/* LIGHT-FADE */
+/* LIGHT-FADE. */
 
 background: #efefef; /* Old browsers */
 background: -moz-linear-gradient(
