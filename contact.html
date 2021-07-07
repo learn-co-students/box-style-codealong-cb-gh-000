@@ -25,26 +25,28 @@
       <div id="navbar">
         <div class="wrapper">
           <nav>
-            <a href="index.html">About</a> <a href="new-properties.html">New Properties</a> <a href="real-estate-listings.html">Listings</a> <a href="market-report.html">Market Report</a> <a href="contact.html">Contact</a> <a href="http://hud.gov" target="_blank">H.U.D.</a>
+            <a href="index.html">About</a><a href="new-properties.html">New Properties</a><a href="real-estate-listings.html">Listings</a><a href="market-report.html">Market Report</a><a class="selected" href="contact.html">Contact</a><a href="http://hud.gov" target="_blank">H.U.D.</a>
           </nav>
         </div><!-- .wrapper -->
       </div><!-- #navbar -->
     </header>
-    
+
     <div class="wrapper clearfix">
 
       <section class="col-2 first shadow">
         <!-- Contact Form -->
         <form action="#" method="post">
           <label for="fullname">Name</label>
-          <input type="text" id="fullname" name="fullname" placeholder="your name" required>
+          <input type="text" id="fullname" name="fullname" placeholder="your name" required size="25">
           <label for="email">Email</label>
-          <input type="email" id="email" name="email" placeholder="your email" required>
+          <input type="email" id="email" name="email" placeholder="your email" required size="27">
+          <br><br>
           <label for="phone">Phone</label>
-          <input type="tel" id="phone" name="phone" placeholder="your phone (optional)">
+          <input type="tel" id="phone" name="phone" placeholder="your phone (optional)" size="24">
           <label for="message">Message</label>
-          <textarea id="message" name="message" rows="10"></textarea>
-          <input type="submit" value="send">
+          <textarea id="message" name="message" rows="10" cols="26"></textarea>
+          <section id="submit">
+          <input type="submit" value="send"></section>
         </form>
       </section>
 
@@ -56,9 +58,9 @@
     </div><!-- .wrapper -->
   </div><!-- .white-wood -->
 
-  <section id="details">
+  <section id="details" class="medium-fade">
     <div class="wrapper clearfix">
-      <div class="col-1 first">
+      <div class="col-1 first border-right">
         <h3>Contact</h3>
         <p>
           email: <a href="mailto:info@exceptionalrealty.com">info@exceptionalrealty.com</a><br>
@@ -72,7 +74,7 @@
         </address>
       </div>
 
-      <div class="col-1">
+      <div class="col-1 border-right">
         <h3>Links</h3>
         <p>
           <a href="#" target="_blank">Home Restoration</a><br>
@@ -95,6 +97,6 @@
   <footer>
     &copy; 2014 Exceptional Realty. All Rights Reserved.
   </footer>
-  
+
 </body>
 </html>
