@@ -7,7 +7,7 @@ h3 {
   margin: 0 0 10px;
 }
 
-p { 
+p {
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
   line-height: 1.5em;
 }
@@ -28,11 +28,21 @@ figcaption {
   text-shadow: 0 2px 3px #000;
 }
 
+.shadow {
+  box-shadow: 0 3px 10px #333;
+}
 
+.border-right {
+  border-right: 1px dotted #CCC;
+  padding-right: 30px;
+}
 
 /*////////// BACKGROUNDS //////////*/
 
-
+.white-wood {
+  background: url(../images/white-wood.jpg) no-repeat center top;
+  background-size: cover;
+}
 
 /*/////// MEDIA ////////*/
 
@@ -72,17 +82,14 @@ img, video, audio, iframe, table, form {
 .col-1 {
   float: left;
   width: 32%;
-  background: #ccc;
 }
 
 .col-2 {
   float: left;
   width: 66%;
-  background: #ccc;
 }
 
 .col-3 {
-  background: #ccc;
 }
 
 [class*="col-"] {
@@ -112,22 +119,63 @@ img, video, audio, iframe, table, form {
 
 /*////////// HEADER //////////*/
 
-
+header {
+  margin: 0 0 30px;
+}
 
 /*////////// NAVBAR //////////*/
 
+#navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2;
+  border-bottom: 1px solid #CCC;
+  text-align: center;
+}
 
+#navbar nav {
+  border-left: 1px solid #CCC;
+}
+
+#navbar nav a {
+  display: inline-block;
+  width: 16.66666667%;
+  padding: 22px 0;
+  text-transform: uppercase;
+  color: black;
+  text-align: center;
+  border-right: 1px solid #CCC;
+  text-decoration: none;
+  font: 1em "Trebuchet MS", Arial, sans-serif;
+}
+
+
+#navbar a.selected {
+  background: #333;
+color: white;
+}
+
+#navbar nav a:hover {
+  color: white;
+
+}
 
 /*////////// LOGO //////////*/
 
-
+#logo {
+  padding: 84px 0 0;
+}
 
 #logo h1 {
   font-family: 'Clicker Script', cursive;
+  margin: 0;
 }
 
 #logo h2 {
   font-family: 'Elsie Swash Caps', cursive;
+  margin: 0;
 }
 
 /*////////// MAIN SECTIONS //////////*/
@@ -135,12 +183,14 @@ img, video, audio, iframe, table, form {
 section {
   padding: 30px;
   margin-bottom: 20px;
-
+  background: white;
 }
 
 /*////////// DETAILS //////////*/
 
-
+#details {
+  border-top: 1px solid white;
+}
 
 #details div {
   height: 221px;
@@ -160,6 +210,13 @@ section {
   color: red;
 }
 
+
+
 /*////////// FOOTER //////////*/
-
-
+footer {
+  text-align: center;
+  font-size: 0.75em;
+  padding: 10px;
+  background: #eee;
+  border-top: 1px solid #CCC;
+}
