@@ -185,3 +185,5 @@ background: linear-gradient(
 ```
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-ex-5' title='Overview'>Overview</a> on Learn.co and start learning to code for free.</p>
+
+pass.
